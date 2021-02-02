@@ -19,3 +19,12 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+"""
+You can make more updates to the repository by running these commands in order:
+
+git add .
+git commit -m "Commit message"
+git push origin main
+
+"""
