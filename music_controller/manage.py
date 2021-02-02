@@ -3,8 +3,6 @@
 import os
 import sys
 
-"""a"""
-
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'music_controller.settings')
